@@ -1,0 +1,5 @@
+package datatypes
+
+func StringPractise() {
+
+}
